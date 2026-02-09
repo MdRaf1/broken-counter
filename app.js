@@ -1,4 +1,4 @@
-const countLabel = document.getElementById("counter");
+const countLabel = document.getElementById("count");
 const incrementBtn = document.getElementById("incrementBtn");
 
 let count = 0;
